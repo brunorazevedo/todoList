@@ -1,0 +1,73 @@
+.tasks{
+
+    
+   
+    &__content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        animation: moveBottom 700ms ease ;
+        display: none;
+
+        .active{
+            display: block;
+        }
+    }
+
+    &__content img{
+        width:5.6rem;
+        height: 5.6rem;
+        margin: 3rem
+    }
+
+    &__content--h3{
+        color:$color-gray300;
+        font-size: $default-font-size;
+    }
+
+    &__content--p{
+        color:$color-gray300;
+        font-size: $default-font-size;
+    }
+
+
+
+    &__list{
+
+            list-style: none;
+            margin-top: 5rem;
+            
+
+        li{
+            background-color: $color-gray500;
+            padding: 1.6rem;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+
+        a{
+            color: $color-gray100;
+            text-decoration: none;
+            font-size: 1.5rem;
+        }
+
+        
+    }
+
+    .list__item--icon{
+        cursor: pointer;
+        font-size: $default-font-size;
+        color: $color-gray300;
+        transition: 400ms ease;
+
+        &:hover{
+            color:$color-remove;
+        }
+    }
+
+    
+}
