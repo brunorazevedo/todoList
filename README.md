@@ -5,10 +5,12 @@ Responsive: Em curso
 Projeto prático de uma organizador de tarefas.
 
 No momento o projeto está adicionando e removendo tarefas.
-Será implementado a funcionando de localStorage para guardar as informações das tarefas no browser.
+Será implementado a funcionalidade de localStorage para guardar as informações das tarefas no browser.
+
 Layout: 
 
-![2022-12-13_12h49_52](https://user-images.githubusercontent.com/53144518/207379973-97a90ae0-1967-4150-90fa-8400e36b4518.png)
+![Uploading 2022-12-13_13h09_52.png…]()
+
 
 
 ### 📋 Pré-requisitos
@@ -43,7 +45,6 @@ Rodar npm run star:app
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Bruno Ribeiro** - *Desenvolvedor Front-End* - [Bruno Ribeiro](https://github.com/brunorazevedo)
-
 
 ## 📄 Licença
 
