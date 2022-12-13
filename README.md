@@ -2,11 +2,12 @@
 Desktop - OK 
 Responsive: Em curso
 
-Projeto prático de uma organizador de tarefas.
+# Projeto prático de uma organizador de tarefas.
 No momento o projeto está adicionando e removendo tarefas.
 Será implementado a funcionando de localStorage para guardar as informações das tarefas no browser.
 Layout: 
 
+![2022-12-13_12h49_52](https://user-images.githubusercontent.com/53144518/207379973-97a90ae0-1967-4150-90fa-8400e36b4518.png)
 
 
 ### 📋 Pré-requisitos
@@ -31,12 +32,10 @@ Rodar npm run star:app
 ## 🛠️ Construído com
 
  - HTML
- - CSS
+ - CSS - BEM
  - SASS
+ - JAVASCRIPT
 
-## 📌 Versão
-
-1.0
 
 ## ✒️ Autores
 
