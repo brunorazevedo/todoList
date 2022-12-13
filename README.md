@@ -1,8 +1,9 @@
-# TodoLis t- Em breve projeto completo.
+# TodoList - Em breve projeto completo.
 Desktop - OK 
 Responsive: Em curso
 
-# Projeto prático de uma organizador de tarefas.
+Projeto prático de uma organizador de tarefas.
+
 No momento o projeto está adicionando e removendo tarefas.
 Será implementado a funcionando de localStorage para guardar as informações das tarefas no browser.
 Layout: 
