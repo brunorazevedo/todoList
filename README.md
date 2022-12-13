@@ -9,8 +9,7 @@ Será implementado a funcionalidade de localStorage para guardar as informaçõe
 
 Layout: 
 
-![Uploading 2022-12-13_13h09_52.png…]()
-
+![2022-12-13_13h09_52](https://user-images.githubusercontent.com/53144518/207385286-72735344-b5a4-4534-b5b3-f73d1bf8dd86.png)
 
 
 ### 📋 Pré-requisitos
